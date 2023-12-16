@@ -1,0 +1,41 @@
+.addmission-form{
+    height: auto;
+    background-image: url("https://img.freepik.com/free-photo/psychedelic-paper-shapes-with-copy-space_23-2149378246.jpg");
+    width: 600px;
+    background-color: lightblue;
+    border: 5px solid blue;
+    padding: 20px;
+    margin: 0 auto;
+}
+.addmission-form h2{
+    text-transform: uppercase;
+    text-align: left;
+    padding: 20px 0px;
+    text-decoration: underline;
+}
+.form-part label{
+    display: block;
+    font-size: 18px;
+    font-weight: 600px;
+    padding: 5px 0px;
+    text-transform: capitalize;
+}
+.form-part input{
+    width: 49%;
+    padding: 8px 20px; 
+}
+.form-part input[type="radio"]{
+    width: 10%;
+}
+.form-part select{
+    width: 56%;
+    padding: 8px 20px;
+}
+.addmission-form button{
+    padding: 10px 35px;
+    background-color: BLUE;
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500px;
+}
